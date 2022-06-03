@@ -1,4 +1,4 @@
-# LAB9 PHP Modular
+# LAB10 PHP OOP
 
 <table border="2" cellpading="10">
   <tr>
